@@ -1,0 +1,24 @@
+# Dataset & large files
+dataset/
+MRL_Eye_Dataset/
+mrlEyes_2018_01.zip
+*.zip
+
+# Model (too large for GitHub — use Git LFS or share separately)
+# Comment this out if your model is under 100MB
+drowsiness_model.h5
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+drowsiness_log.txt
+
+# OS files
+.DS_Store
+Thumbs.db
