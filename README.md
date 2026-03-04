@@ -116,7 +116,7 @@ Open `Drowsiness_Detection.ipynb` in Jupyter and run all cells.
 ## 📦 Requirements
 
 ```
-streamlit
+
 tensorflow
 opencv-python-headless
 numpy
